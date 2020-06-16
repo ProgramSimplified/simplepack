@@ -2,3 +2,4 @@
 
 手动实现的一个简易 webpack.
 
+运行 node lib/index.js
